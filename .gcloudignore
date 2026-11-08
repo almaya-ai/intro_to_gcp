@@ -1,0 +1,13 @@
+.git
+.gitignore
+.venv
+.local
+.claude
+.mcp.json
+.worktreeinclude
+__pycache__
+.pytest_cache
+docs
+samples
+tests
+*.md
